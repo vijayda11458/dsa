@@ -13,4 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vijayda11458/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vijayda11458/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Array
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vijayda11458/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/vijayda11458/dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
